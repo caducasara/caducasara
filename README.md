@@ -1,7 +1,7 @@
 ### Hello! I'm Carlos Eduardo 👋
 
-- 🔭 Front-End software engineer.
-- 🌱 Studying about the most used Frame Works Front-End (Angular, Vue, React), Front-End architecture, and Back-End engineering.
+- 🔭 Front-End Software Engineer.
+- 🌱 Studying about the most used FrameWorks Front-End (Angular, Vue, React, Next), Front-End Architecture, and Back-End Engineering.
 - 📫 Contact me by email: carloscasara98@gmail.com.
  ##
 
